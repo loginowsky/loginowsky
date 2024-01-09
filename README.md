@@ -4,6 +4,7 @@
 - 💞️ I'm looking to collaborate on projects around Kubernetes
   - security improvement 
   - automation with operators
+  - application of best practices
 - 📫 To reach me use michael@loginovsky.com
 
 <!---
